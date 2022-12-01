@@ -1,9 +1,6 @@
 # DreamBooth Action
 
-🎩🐇 This is a template repo for **training and publishing your own custom DreamBooth model** using Replicate and GitHub Actions.
-
-DreamBooth is a technique for fine-tuning text-to-image models like Stable Diffusion. See our [DreamBooth API blog post](https://replicate.com/blog/dreambooth-api) to learn more.
-
+This is a template repo for **training and publishing your own custom [DreamBooth](https://replicate.com/blog/dreambooth-api) model** using Replicate and GitHub Actions.
 
 <a href="https://www.youtube.com/watch?v=jknKfY13LbY">
   <img width="1000" alt="YouTube video" src="https://user-images.githubusercontent.com/2289/205170836-49031fdd-eedc-4014-9d73-18870b7418ac.png">
