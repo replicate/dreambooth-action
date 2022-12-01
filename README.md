@@ -4,6 +4,11 @@
 
 DreamBooth is a technique for fine-tuning text-to-image models like Stable Diffusion. See our [DreamBooth API blog post](https://replicate.com/blog/dreambooth-api) to learn more.
 
+
+<a href="https://www.youtube.com/watch?v=jknKfY13LbY">
+  <img width="1000" alt="YouTube video" src="https://user-images.githubusercontent.com/2289/205170836-49031fdd-eedc-4014-9d73-18870b7418ac.png">
+</a>
+
 ## Preqrequisites
 
 - A paid [Replicate](https://replicate.com/account) account
