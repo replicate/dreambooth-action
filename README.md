@@ -13,7 +13,7 @@ This is a template repo for **training and publishing your own custom [DreamBoot
 
 ## Training the model
 
-1. 🍴 Fork this repository.
+1. 🐣 Create your own copy of this repository by clicking the green "Use this template" button, then "Create a new repository". Name your new repository whatever you like, and choose whether you want to make it public or private.
 1. 🐕 Remove the cute puppy images in the [data](data) directory and replace them with your own images.
 1. 💾 Commit your changes to git and push to your main branch on GitHub.
 1. 🕵️‍♀️ Copy your Replicate API token from [replicate.com/account](https://replicate.com/account) and [create a repository secret](https://docs.github.com/en/actions/security-guides/encrypted-secrets#creating-encrypted-secrets-for-a-repository) named `REPLICATE_API_TOKEN`.
