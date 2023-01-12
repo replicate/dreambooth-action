@@ -16,7 +16,8 @@ This is a template repo for **training and publishing your own custom [DreamBoot
 1. 💾 Commit your changes to git and push to your main branch on GitHub.
 1. 🕵️‍♀️ Copy your Replicate API token from [replicate.com/account](https://replicate.com/account) and [create a repository secret](https://docs.github.com/en/actions/security-guides/encrypted-secrets#creating-encrypted-secrets-for-a-repository) named `REPLICATE_API_TOKEN`.
 1. 🎬 Trigger the workflow from your GitHub repo page: "Actions" > "Train a model" > "Run workflow".
-1. ☕️ Go grab a coffee or a snack! The training process takes a few minutes to run.
+1. Go to the [replicate.com](https://replicate.com) homepage. At the top of your list of predictions, you'll see a replicate/dreambooth prediction in progress. This the request to train your model. Click that prediction to see the progress of the training process.
+1. ☕️ Grab a coffee or a snack and watch the logs roll by! The training process takes a few minutes to run.
 
 ## Running the model
 
