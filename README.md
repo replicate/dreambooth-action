@@ -2,16 +2,14 @@
 
 This is a template repo for **training and publishing your own custom [DreamBooth](https://replicate.com/blog/dreambooth-api) model** using Replicate and GitHub Actions.
 
-<a href="https://www.youtube.com/watch?v=jknKfY13LbY">
-  <img width="1000" alt="YouTube video" src="https://user-images.githubusercontent.com/2289/205170836-49031fdd-eedc-4014-9d73-18870b7418ac.png">
-</a>
-
 ## Preqrequisites
 
 - A paid [Replicate](https://replicate.com/account) account
 - A handful of training images
 
 ## Training the model
+
+🍿 Like to learn by watching? Check out the [video tutorial on YouTube](https://www.youtube.com/watch?v=jknKfY13LbY)
 
 1. 🐣 Create your own copy of this repository by clicking the green "Use this template" button, then "Create a new repository". Name your new repository whatever you like, and choose whether you want to make it public or private.
 1. 🐕 Remove the cute puppy images in the [data](data) directory and replace them with your own images.
