@@ -2,10 +2,6 @@
 
 This is a template repo for **training and publishing your own custom [DreamBooth](https://replicate.com/blog/dreambooth-api) model** using Replicate and GitHub Actions.
 
-<a href="https://www.youtube.com/watch?v=jknKfY13LbY">
-  <img width="1000" alt="YouTube video" src="https://user-images.githubusercontent.com/2289/205170836-49031fdd-eedc-4014-9d73-18870b7418ac.png">
-</a>
-
 ## Preqrequisites
 
 - A paid [Replicate](https://replicate.com/account) account
@@ -13,12 +9,15 @@ This is a template repo for **training and publishing your own custom [DreamBoot
 
 ## Training the model
 
+🍿 Like to learn by watching? Check out the [video tutorial on YouTube](https://www.youtube.com/watch?v=jknKfY13LbY)
+
 1. 🐣 Create your own copy of this repository by clicking the green "Use this template" button, then "Create a new repository". Name your new repository whatever you like, and choose whether you want to make it public or private.
 1. 🐕 Remove the cute puppy images in the [data](data) directory and replace them with your own images.
 1. 💾 Commit your changes to git and push to your main branch on GitHub.
 1. 🕵️‍♀️ Copy your Replicate API token from [replicate.com/account](https://replicate.com/account) and [create a repository secret](https://docs.github.com/en/actions/security-guides/encrypted-secrets#creating-encrypted-secrets-for-a-repository) named `REPLICATE_API_TOKEN`.
 1. 🎬 Trigger the workflow from your GitHub repo page: "Actions" > "Train a model" > "Run workflow".
-1. ☕️ Go grab a coffee or a snack! The training process takes a few minutes to run.
+1. Go to the [replicate.com](https://replicate.com) homepage. At the top of your list of predictions, you'll see a replicate/dreambooth prediction in progress. This the request to train your model. Click that prediction to see the progress of the training process.
+1. ☕️ Grab a coffee or a snack and watch the logs roll by! The training process takes a few minutes to run.
 
 ## Running the model
 
